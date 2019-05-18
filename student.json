@@ -1,0 +1,13 @@
+[{
+    "id": 1,
+    "name": "Logan",
+    "car": "Dacia"
+}, {
+    "id": 2,
+    "name": "Jimin",
+    "car": "Toyota"
+},{
+    "id":3,
+    "name":"Gigel",
+    "car":"Lada"
+}] 
